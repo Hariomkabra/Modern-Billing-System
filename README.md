@@ -1,6 +1,6 @@
 # Modern Billing System
 
-The **Modern Billing System** is a Python-based application that uses the Tkinter library to provide a user-friendly interface for managing billing processes. This project is designed to calculate the total amount of a purchase after applying all relevant taxes and deductions digitally. It simplifies the billing process with categorized product selection, tax calculation, and a clear summary of the total.
+The **Modern Billing System** is a Python-based application that uses the Tkinter library to provide a user-friendly interface for managing billing processes. This project is designed to calculate the total purchase amount after digitally applying all relevant taxes and deductions. It simplifies the billing process with categorized product selection, tax calculation, and a clear total summary.
 
 ## Features
 
@@ -58,7 +58,7 @@ python main.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-Email: your-kabrahariom07@gmailcom.com
-GitHub: Hariomkabra
+## Contact
+Email: kabrahariom07@gmailcom.com
+GitHub: https://github.com/Hariomkabra
 
